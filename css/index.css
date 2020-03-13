@@ -86,6 +86,78 @@ p {
     text-decoration: none;
     color: black;
 }
+.about-head{
+    border-bottom: black dashed 1px;
+}
+.header-info{
+    margin-top: 1em;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-bottom: 2em;
+    
+}
+.middle-section{
+    width: 96%;
+    margin: 0 auto;
+}
+.middle-section button{
+    padding-top: .7em;
+    padding-bottom: .75em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 1em;
+    background-color: white;
+    border-radius: 5px;
+    border: black 2px solid; 
+    font-size: 8pt;
+}
+.top{
+    display: inline-block;
+    
+}
+.top img{
+    width: 100%;
+}
+.strategy{
+    width: 45%;
+    margin-right: 9.47%;
+    padding-top: 2em;
+    padding-bottom: 2%;
+    border-bottom: dashed 1px black;
+    
+}
+.how{
+    width: 45%;
+    padding-bottom: 2%;
+    padding-top: 2em;
+    border-bottom: dashed 1px black;
+    
+}
+.bot{
+    display: inline-block;
+    margin-top: 2em;
+}
+.bot img{
+    width: 100%;
+}
+.places{
+    width: 45%;
+    margin-right: 9.47%;
+    border-bottom: dashed 1px black; 
+    padding-bottom: 2%;
+}
+.collaboration{
+    width: 45%;
+    border-bottom: dashed 1px black;
+    padding-bottom: 2%;
+}
+.work-together{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.middle-section p{
+    line-height: 1.5;
+}
 
 .top-content {
     display: flex;
